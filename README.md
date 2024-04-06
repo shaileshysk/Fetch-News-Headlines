@@ -1,4 +1,4 @@
-# Fetch-News-Headlines
+# Fetch-News-Headlines For Stock market
 
 Recent News Headlines
 There are various Python APIs such as Webhose, NewsAPI, News Fetch, GoogleNews etc. which aggregate news headlines from various media sources. The framework for using these APIs/libraries are somewhat similar.
